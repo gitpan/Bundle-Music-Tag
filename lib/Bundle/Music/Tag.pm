@@ -1,5 +1,5 @@
 package Bundle::Music::Tag;
-$VERSION = '0.01';
+$VERSION = '0.02';
 1;
 __END__
 
@@ -23,6 +23,8 @@ Text::Unaccent
 
 Time::Local
 
+Config::Options
+
 Music::Tag
 
 Music::Tag::Amazon
@@ -32,6 +34,8 @@ Music::Tag::FLAC
 Music::Tag::File
 
 Music::Tag::Lyrics
+
+Tree::Simple
 
 Music::Tag::M4A
 

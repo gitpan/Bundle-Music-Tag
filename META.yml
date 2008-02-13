@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Bundle-Music-Tag
-version:             0.01
+version:             0.02
 abstract:            Music::Tag bundle for quick installation
 license:             ~
 author:              
