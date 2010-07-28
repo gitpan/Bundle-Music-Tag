@@ -1,5 +1,5 @@
 package Bundle::Music::Tag;
-$VERSION = '0.02';
+$VERSION = '0.40_01';
 1;
 __END__
 
@@ -14,10 +14,9 @@ Bundle::Music::Tag - Music::Tag bundle for quick installation
 
 =head1 CONTENTS
 
-
 Term::ANSIColor
 
-Text::LevenshteinXS
+Text::Levenshtein
 
 Text::Unaccent
 
@@ -33,7 +32,7 @@ Music::Tag::FLAC
 
 Music::Tag::File
 
-Music::Tag::Lyrics
+Music::Tag::LyricsFetcher
 
 Tree::Simple
 
@@ -42,7 +41,6 @@ Music::Tag::M4A
 Music::Tag::MP3
 
 Music::Tag::OGG
-
 
 =head1 DESCRIPTION
 

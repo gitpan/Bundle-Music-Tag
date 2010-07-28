@@ -1,11 +1,9 @@
-Bundle-Lyrics-Fetcher version 0.01
+Bundle-Music-Tag version 0.01
 ==================================
 
-A simple bundle of Lyrics::Fetcher (the fetcher manager) and the recommended
-Lyrics::Fetcher::* modules, which are the fetchers which do the actual work
-of retrieving and processing lyrics from various sites.
+A simple bundle of Music::Tag, the core Music::Tag modules,
+and all recommended modules.
 
-Provides a nice, simple, quick way to get Lyrics::Fetcher up and running.
 
 INSTALLATION
 
@@ -18,13 +16,8 @@ To install this module type the following:
 
 DEPENDENCIES
 
-See the Lyrics::Fetcher::* modules for their dependencies - there's nothing
-too esoteric.
-
+Should be listed.
 
 COPYRIGHT AND LICENCE
 
-It's just a bundle - see the Lyrics::Fetcher::* modules for licencing info.
-
-
-
+Please see modules for their copyright info.
